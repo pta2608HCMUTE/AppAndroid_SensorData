@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1015008081044",
+    "firebase_url": "https://dht11-517c9-default-rtdb.firebaseio.com",
+    "project_id": "dht11-517c9",
+    "storage_bucket": "dht11-517c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015008081044:android:7ca1a59600ae9fe96b7081",
+        "android_client_info": {
+          "package_name": "com.example.dht11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2uw3WY0BCMW82o_7NgOHjIy61t1-RYy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015008081044:android:e70b09de7ee20a7f6b7081",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2uw3WY0BCMW82o_7NgOHjIy61t1-RYy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

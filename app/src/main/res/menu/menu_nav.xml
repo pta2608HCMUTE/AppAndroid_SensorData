@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_home"
+            android:title="@string/nav_home"
+            android:icon="@drawable/baseline_home_24"/>
+
+    </group>
+
+    <item android:title="Account">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/nav_logout"
+                    android:title="@string/nav_logout"
+                    android:icon="@drawable/baseline_exit_to_app_24"/>
+            <item android:id="@+id/nav_my_profile"
+                android:title="@string/nav_profile"
+                android:icon="@drawable/baseline_person_2_24"/>
+            <item android:id="@+id/nav_change_password"
+                android:title="@string/nav_password"
+                android:icon="@drawable/baseline_lock_24"/>
+            </group>
+        </menu>
+    </item>
+</menu>
